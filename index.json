@@ -14,13 +14,23 @@
                          "difficulty":  "Medium"
                      },
                      {
+                         "slug":  "palindrome-number",
                          "id":  9,
+                         "date":  "2026-11-18",
+                         "lang":  "csharp",
                          "langName":  "C#",
+                         "path":  "leetcode/0009-palindrome-number",
                          "title":  "Palindrome Number",
+                         "difficulty":  "Easy"
+                     },
+                     {
+                         "id":  1,
+                         "langName":  "C#",
+                         "title":  "Two Sum",
                          "difficulty":  "Easy",
                          "lang":  "csharp",
-                         "slug":  "palindrome-number",
-                         "path":  "leetcode/0009-palindrome-number",
+                         "slug":  "two-sum",
+                         "path":  "leetcode/0001-two-sum",
                          "date":  "2026-11-18"
                      }
                  ]
