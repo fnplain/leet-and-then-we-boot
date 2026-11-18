@@ -4,13 +4,23 @@
                 ],
     "leetcode":  [
                      {
-                         "id":  3372,
-                         "langName":  "Python",
-                         "title":  "Maximize the Number of Target Nodes After Connecting Trees I",
-                         "difficulty":  "Medium",
-                         "lang":  "python3",
                          "slug":  "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+                         "id":  3372,
+                         "date":  "2026-11-18",
+                         "lang":  "python3",
+                         "langName":  "Python",
                          "path":  "leetcode/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i",
+                         "title":  "Maximize the Number of Target Nodes After Connecting Trees I",
+                         "difficulty":  "Medium"
+                     },
+                     {
+                         "id":  9,
+                         "langName":  "C#",
+                         "title":  "Palindrome Number",
+                         "difficulty":  "Easy",
+                         "lang":  "csharp",
+                         "slug":  "palindrome-number",
+                         "path":  "leetcode/0009-palindrome-number",
                          "date":  "2026-11-18"
                      }
                  ]
