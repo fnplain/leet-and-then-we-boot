@@ -1,0 +1,17 @@
+{
+    "bootdev":  [
+
+                ],
+    "leetcode":  [
+                     {
+                         "id":  3372,
+                         "langName":  "Python",
+                         "title":  "Maximize the Number of Target Nodes After Connecting Trees I",
+                         "difficulty":  "Medium",
+                         "lang":  "python3",
+                         "slug":  "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+                         "path":  "leetcode/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i",
+                         "date":  "2026-11-18"
+                     }
+                 ]
+}
