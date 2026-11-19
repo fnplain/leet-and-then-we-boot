@@ -41,13 +41,23 @@
                          "difficulty":  "Easy"
                      },
                      {
+                         "slug":  "add-two-numbers",
                          "id":  2,
+                         "date":  "2026-11-19",
+                         "lang":  "python3",
                          "langName":  "Python",
+                         "path":  "leetcode/0002-add-two-numbers",
                          "title":  "Add Two Numbers",
+                         "difficulty":  "Medium"
+                     },
+                     {
+                         "id":  2567,
+                         "langName":  "Python",
+                         "title":  "Minimum Score by Changing Two Elements",
                          "difficulty":  "Medium",
                          "lang":  "python3",
-                         "slug":  "add-two-numbers",
-                         "path":  "leetcode/0002-add-two-numbers",
+                         "slug":  "minimum-score-by-changing-two-elements",
+                         "path":  "leetcode/2567-minimum-score-by-changing-two-elements",
                          "date":  "2026-11-19"
                      }
                  ]
