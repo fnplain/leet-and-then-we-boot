@@ -1,11 +1,11 @@
 {
     "bootdev":  [
                     {
-                        "lang":  "go",
-                        "langName":  "Go",
-                        "path":  "bootdev/learn-go/ch1-l1-l8",
-                        "date":  "2026-11-18",
                         "course":  "Learn Go",
+                        "path":  "bootdev/learn-go/ch1-l1-l8",
+                        "lang":  "go",
+                        "date":  "2026-11-18",
+                        "langName":  "Go",
                         "lesson":  "CH1 L1-L8"
                     }
                 ],
@@ -39,6 +39,16 @@
                          "path":  "leetcode/0001-two-sum",
                          "title":  "Two Sum",
                          "difficulty":  "Easy"
+                     },
+                     {
+                         "id":  2,
+                         "langName":  "Python",
+                         "title":  "Add Two Numbers",
+                         "difficulty":  "Medium",
+                         "lang":  "python3",
+                         "slug":  "add-two-numbers",
+                         "path":  "leetcode/0002-add-two-numbers",
+                         "date":  "2026-11-19"
                      }
                  ]
 }
