@@ -51,14 +51,24 @@
                          "difficulty":  "Medium"
                      },
                      {
-                         "id":  2567,
-                         "langName":  "Python",
-                         "title":  "Minimum Score by Changing Two Elements",
-                         "difficulty":  "Medium",
-                         "lang":  "python3",
                          "slug":  "minimum-score-by-changing-two-elements",
+                         "id":  2567,
+                         "date":  "2026-11-19",
+                         "lang":  "python3",
+                         "langName":  "Python",
                          "path":  "leetcode/2567-minimum-score-by-changing-two-elements",
-                         "date":  "2026-11-19"
+                         "title":  "Minimum Score by Changing Two Elements",
+                         "difficulty":  "Medium"
+                     },
+                     {
+                         "id":  3041,
+                         "langName":  "Python",
+                         "title":  "Maximize Consecutive Elements in an Array After Modification",
+                         "difficulty":  "Hard",
+                         "lang":  "python3",
+                         "slug":  "maximize-consecutive-elements-in-an-array-after-modification",
+                         "path":  "leetcode/3041-maximize-consecutive-elements-in-an-array-after-modification",
+                         "date":  "2026-11-20"
                      }
                  ]
 }
