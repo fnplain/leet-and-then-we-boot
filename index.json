@@ -61,14 +61,24 @@
                          "difficulty":  "Medium"
                      },
                      {
-                         "id":  3041,
-                         "langName":  "Python",
-                         "title":  "Maximize Consecutive Elements in an Array After Modification",
-                         "difficulty":  "Hard",
-                         "lang":  "python3",
                          "slug":  "maximize-consecutive-elements-in-an-array-after-modification",
+                         "id":  3041,
+                         "date":  "2026-11-20",
+                         "lang":  "python3",
+                         "langName":  "Python",
                          "path":  "leetcode/3041-maximize-consecutive-elements-in-an-array-after-modification",
-                         "date":  "2026-11-20"
+                         "title":  "Maximize Consecutive Elements in an Array After Modification",
+                         "difficulty":  "Hard"
+                     },
+                     {
+                         "id":  3331,
+                         "langName":  "Python",
+                         "title":  "Find Subtree Sizes After Changes",
+                         "difficulty":  "Medium",
+                         "lang":  "python3",
+                         "slug":  "find-subtree-sizes-after-changes",
+                         "path":  "leetcode/3331-find-subtree-sizes-after-changes",
+                         "date":  "2026-11-21"
                      }
                  ]
 }
