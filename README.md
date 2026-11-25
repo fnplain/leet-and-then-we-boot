@@ -2,7 +2,7 @@
 
 My LeetCode and boot.dev solutions, pushed straight from my desk.
 
-**LeetCode:** 8 solved (3 easy · 4 medium · 1 hard) &nbsp;·&nbsp; **boot.dev:** 1 lessons
+**LeetCode:** 9 solved (3 easy · 5 medium · 1 hard) &nbsp;·&nbsp; **boot.dev:** 1 lessons
 
 ## LeetCode
 
@@ -11,6 +11,7 @@ My LeetCode and boot.dev solutions, pushed straight from my desk.
 | 1 | [Two Sum](leetcode/0001-two-sum) | Easy | C# | 2026-11-18 |
 | 2 | [Add Two Numbers](leetcode/0002-add-two-numbers) | Medium | Python | 2026-11-19 |
 | 9 | [Palindrome Number](leetcode/0009-palindrome-number) | Easy | C# | 2026-11-18 |
+| 1352 | [Product of the Last K Numbers](leetcode/1352-product-of-the-last-k-numbers) | Medium | Python | 2026-11-25 |
 | 2124 | [Check if All A's Appears Before All B's](leetcode/2124-check-if-all-as-appears-before-all-bs) | Easy | Python | 2026-11-22 |
 | 2567 | [Minimum Score by Changing Two Elements](leetcode/2567-minimum-score-by-changing-two-elements) | Medium | Python | 2026-11-19 |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](leetcode/3041-maximize-consecutive-elements-in-an-array-after-modification) | Hard | Python | 2026-11-20 |

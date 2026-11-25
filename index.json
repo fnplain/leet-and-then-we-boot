@@ -81,14 +81,24 @@
                          "difficulty":  "Medium"
                      },
                      {
-                         "id":  2124,
-                         "langName":  "Python",
-                         "title":  "Check if All A\u0027s Appears Before All B\u0027s",
-                         "difficulty":  "Easy",
-                         "lang":  "python3",
                          "slug":  "check-if-all-as-appears-before-all-bs",
+                         "id":  2124,
+                         "date":  "2026-11-22",
+                         "lang":  "python3",
+                         "langName":  "Python",
                          "path":  "leetcode/2124-check-if-all-as-appears-before-all-bs",
-                         "date":  "2026-11-22"
+                         "title":  "Check if All A\u0027s Appears Before All B\u0027s",
+                         "difficulty":  "Easy"
+                     },
+                     {
+                         "id":  1352,
+                         "langName":  "Python",
+                         "title":  "Product of the Last K Numbers",
+                         "difficulty":  "Medium",
+                         "lang":  "python3",
+                         "slug":  "product-of-the-last-k-numbers",
+                         "path":  "leetcode/1352-product-of-the-last-k-numbers",
+                         "date":  "2026-11-25"
                      }
                  ]
 }
