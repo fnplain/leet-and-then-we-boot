@@ -101,14 +101,24 @@
                          "difficulty":  "Medium"
                      },
                      {
-                         "id":  3411,
-                         "langName":  "Python",
-                         "title":  "Maximum Subarray With Equal Products",
-                         "difficulty":  "Easy",
-                         "lang":  "python3",
                          "slug":  "maximum-subarray-with-equal-products",
+                         "id":  3411,
+                         "date":  "2026-11-25",
+                         "lang":  "python3",
+                         "langName":  "Python",
                          "path":  "leetcode/3411-maximum-subarray-with-equal-products",
-                         "date":  "2026-11-25"
+                         "title":  "Maximum Subarray With Equal Products",
+                         "difficulty":  "Easy"
+                     },
+                     {
+                         "id":  3934,
+                         "langName":  "Python",
+                         "title":  "Smallest Unique Subarray",
+                         "difficulty":  "Hard",
+                         "lang":  "python3",
+                         "slug":  "smallest-unique-subarray",
+                         "path":  "leetcode/3934-smallest-unique-subarray",
+                         "date":  "2026-11-26"
                      }
                  ]
 }

@@ -2,7 +2,7 @@
 
 My LeetCode and boot.dev solutions, pushed straight from my desk.
 
-**LeetCode:** 10 solved (4 easy · 5 medium · 1 hard) &nbsp;·&nbsp; **boot.dev:** 1 lessons
+**LeetCode:** 11 solved (4 easy · 5 medium · 2 hard) &nbsp;·&nbsp; **boot.dev:** 1 lessons
 
 ## LeetCode
 
@@ -18,6 +18,7 @@ My LeetCode and boot.dev solutions, pushed straight from my desk.
 | 3331 | [Find Subtree Sizes After Changes](leetcode/3331-find-subtree-sizes-after-changes) | Medium | Python | 2026-11-21 |
 | 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](leetcode/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) | Medium | Python | 2026-11-18 |
 | 3411 | [Maximum Subarray With Equal Products](leetcode/3411-maximum-subarray-with-equal-products) | Easy | Python | 2026-11-25 |
+| 3934 | [Smallest Unique Subarray](leetcode/3934-smallest-unique-subarray) | Hard | Python | 2026-11-26 |
 
 ## boot.dev
 
