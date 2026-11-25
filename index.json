@@ -91,13 +91,23 @@
                          "difficulty":  "Easy"
                      },
                      {
-                         "id":  1352,
-                         "langName":  "Python",
-                         "title":  "Product of the Last K Numbers",
-                         "difficulty":  "Medium",
-                         "lang":  "python3",
                          "slug":  "product-of-the-last-k-numbers",
+                         "id":  1352,
+                         "date":  "2026-11-25",
+                         "lang":  "python3",
+                         "langName":  "Python",
                          "path":  "leetcode/1352-product-of-the-last-k-numbers",
+                         "title":  "Product of the Last K Numbers",
+                         "difficulty":  "Medium"
+                     },
+                     {
+                         "id":  3411,
+                         "langName":  "Python",
+                         "title":  "Maximum Subarray With Equal Products",
+                         "difficulty":  "Easy",
+                         "lang":  "python3",
+                         "slug":  "maximum-subarray-with-equal-products",
+                         "path":  "leetcode/3411-maximum-subarray-with-equal-products",
                          "date":  "2026-11-25"
                      }
                  ]
